@@ -29,6 +29,6 @@ num = input("num: ")
 
 #pode-se utilizar o input direto em uma condicional (sem utilizar uma variável)
 
-if int(input("num: ")) < 10:
+if int(input("num: ")) > 10:
     print("O número digitado é maior que 10")
 
